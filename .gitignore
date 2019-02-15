@@ -1,0 +1,9 @@
+/node_modules
+
+# production
+/dist
+
+# misc
+.DS_Store
+.idea
+.vscode
